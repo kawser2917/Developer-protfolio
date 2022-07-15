@@ -16,10 +16,16 @@ div img{
 
 .half-width{
     width: 50%;
-    margin-left: 25px;
+    margin-left: 100px;
+    font-size: 25px;
 
 }
 
 span{
     color: orange;
+}
+.link-btn{
+    text-decoration: none;
+    padding: 15px;
+    background-image: linear-gradient(yellow,tomato);
 }
